@@ -1,0 +1,29 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@movie.com",
+    "password": "admin123",
+    "role": "admin",
+    "favorites": [],
+    "isDisable": false,
+    "id": "1"
+  },
+  {
+    "username": "john",
+    "email": "john@movie.com",
+    "password": "john123",
+    "role": "user",
+    "favorites": [],
+    "isDisable": false,
+    "id": "2"
+  },
+{
+    "username": "jane",
+    "email": "jane@movie.com",
+    "password": "jane123",
+    "role": "user",
+    "favorites": [],
+    "isDisable": false,
+    "id": "3"
+  }
+]
